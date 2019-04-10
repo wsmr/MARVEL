@@ -3,10 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 # How to run
-git clone https://github.com/wsmr/MARVEL.git
-cd MARVEL
-npm install
-ng serve
+git clone https://github.com/wsmr/MARVEL.git <br>
+cd MARVEL<br>
+npm install<br>
+ng serve<br>
 
 ## Development server
 
